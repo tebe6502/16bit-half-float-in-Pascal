@@ -1,4 +1,4 @@
-# 16bit-half-float-in-Pascal
+# 16bit half-float in Pascal
 
 float16 (Half-precision floating-point format): 65504 .. -65504
 
